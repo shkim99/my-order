@@ -16,6 +16,7 @@ spring:
         output:
           destination: shop
           contentType: application/json
+
 ---
 server:
   port: 8080
